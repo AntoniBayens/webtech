@@ -1,5 +1,5 @@
 {
-    "name": "aa/webtech-core",
+    "name": "antonibayens/webtech-core",
     "autoload": {
         "psr-4": {
             "Aa\\WebtechCore\\": "src/"

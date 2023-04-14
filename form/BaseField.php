@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core\form;
+namespace antonibayens\webtech\form;
 
-use app\core\Model;
+use antonibayens\webtech\Model;
 
 /**
  * @author
- * @package app\core\form
+ * @package antonibayens\webtech\form
  */
 
 abstract class BaseField

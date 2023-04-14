@@ -4,13 +4,13 @@
  * Class Application
  *
  * @author Antoni Bayens
- * @package app\core
+ * @package antonibayens\webtech
  */
 
-namespace app\core;
+namespace antonibayens\webtech;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use antonibayens\webtech\db\Database;
+use antonibayens\webtech\db\DbModel;
 
 class Application
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core;
+namespace antonibayens\webtech;
 
-use app\core\middlewares\BaseMiddleware;
+use antonibayens\webtech\middlewares\BaseMiddleware;
 
 /**
  * @author Antoni Bayens
- * @package app\core
+ * @package antonibayens\webtech
  */
 
 class Controller

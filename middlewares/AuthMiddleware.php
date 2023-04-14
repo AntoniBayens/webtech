@@ -5,14 +5,14 @@
  *
  */
 
-namespace app\core\middlewares;
+namespace antonibayens\webtech\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use antonibayens\webtech\Application;
+use antonibayens\webtech\exception\ForbiddenException;
 
 /**
  * Class AuthMiddleware
- * @package app\core\middlewares
+ * @package antonibayens\webtech\middlewares
  */
 
 class AuthMiddleware extends BaseMiddleware

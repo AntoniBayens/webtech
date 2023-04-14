@@ -4,11 +4,11 @@
  * @author Antoni Bayens
  */
 
-namespace app\core\middlewares;
+namespace antonibayens\webtech\middlewares;
 
 /**
  * Classh BaseMiddleware
- * @package app\core\middlewares
+ * @package antonibayens\webtech\middlewares
  */
 
 abstract class BaseMiddleware

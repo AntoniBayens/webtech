@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core\exception;
+namespace antonibayens\webtech\exception;
 
 /**
  * Class Forbidden Exception
  *
  * @author Antoni Bayens
- * @package app\core\exception
+ * @package antonibayens\webtech\exception
  */
 
 class ForbiddenException extends \Exception

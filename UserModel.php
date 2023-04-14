@@ -2,12 +2,12 @@
 
 /**
  * @author Antoni Bayens
- * @package app\core
+ * @package antonibayens\webtech
  */
 
-namespace app\core;
+namespace antonibayens\webtech;
 
-use app\core\db\DbModel;
+use antonibayens\webtech\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

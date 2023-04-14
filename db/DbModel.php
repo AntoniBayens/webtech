@@ -3,14 +3,14 @@
  * @author Antoni Bayens
  */
 
-namespace app\core\db;
+namespace antonibayens\webtech\db;
 
-use app\core\Application;
-use app\core\Model;
+use antonibayens\webtech\Application;
+use antonibayens\webtech\Model;
 
 /**
  * Class DbModel
- * @package app\core
+ * @package antonibayens\webtech
  */
 
 abstract class DbModel extends Model

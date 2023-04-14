@@ -4,13 +4,13 @@
  * Class Router
  *
  * @author Antoni Bayens
- * @package app\core
+ * @package antonibayens\webtech
  */
 
-namespace app\core;
+namespace antonibayens\webtech;
 
-use app\core\exception\ForbiddenException;
-use app\core\exception\NotFoundException;
+use antonibayens\webtech\exception\ForbiddenException;
+use antonibayens\webtech\exception\NotFoundException;
 
 class Router
 {

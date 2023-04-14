@@ -1,15 +1,15 @@
 {
     "name": "antonibayens/webtech-core",
-    "autoload": {
-        "psr-4": {
-            "Aa\\WebtechCore\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "AntoniBayens",
             "email": "56294701+AntoniBayens@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "antonibayens\\webtech:": "."
+        }
+    }
 }

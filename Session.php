@@ -1,12 +1,12 @@
 <?php
 
-namespace app\core;
+namespace antonibayens\webtech;
 
 /**
  * Class Session
  *
  * @author Antoni Bayens
- * @package app\core
+ * @package antonibayens\webtech
  */
 
 class Session

@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace antonibayens\webtech;
 
 /**
  * @author Antoni Bayens
- * @package app\core
+ * @package antonibayens\webtech
  */
 
 class Request

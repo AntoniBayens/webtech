@@ -1,11 +1,11 @@
 <?php
 
-namespace app\core\exception;
+namespace antonibayens\webtech\exception;
 
 /**
  * Class NotFoundException
  * @author Antoni Bayens
- * @package app\core\exception
+ * @package antonibayens\webtech\exception
  */
 
 class NotFoundException extends \Exception

@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace antonibayens\webtech;
 
 /**
  * @author
- * @package app\core
+ * @package antonibayens\webtech
  */
 abstract class Model
 {
